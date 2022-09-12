@@ -1,0 +1,29 @@
+
+body
+{
+  height: 100vh;
+  
+}
+@media screen and (min-width: 769px) 
+{
+#title 
+
+{
+overflow: hidden;
+height: 60%;
+
+}
+
+  .title-image
+
+  {
+    transform: rotate(25deg);
+  }
+}
+
+
+
+#title button:hover
+{
+  background-color: black;
+}
