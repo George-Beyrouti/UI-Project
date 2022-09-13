@@ -27,3 +27,9 @@ height: 60%;
 {
   background-color: black;
 }
+
+
+#cta button:hover {
+  background-color: black;
+  color: white;
+}
